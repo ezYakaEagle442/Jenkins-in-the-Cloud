@@ -6,7 +6,7 @@ Use Azure Container agent to add on-demand capacity and use Azure Container Inst
 
 If do have not select this link: https://tutorials.visualstudio.com/jenkins-azure/new/sign-in.html
 
-#Setup Jenkins Master
+##Setup Jenkins Master
 
 #Create the Jenkins VM from Solution template
 Open the marketplace image for Jenkins in your web browser and select GET IT NOW from the left-hand side of the page. Review the pricing details and select Continue, then select Create to configure the Jenkins server in the Azure portal.
